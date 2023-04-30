@@ -14,13 +14,17 @@
 
 # Trade and Create NFTs on L2.
 
-[Layer2 Metrics from L2 Beat](https://l2beat.com/scaling/tvl)
+The team uses analytics provider L2Beat primarily - in addition to DeFi Llama - to monitor the status of the L2 ecosystem. 
+
+<br />
+
+View Layer2 Ethereum Scaling Metrics here: [L2 Beat](https://l2beat.com/scaling/tvl)
 
 ---
 
 ![image](https://user-images.githubusercontent.com/29180454/235240922-a2e871a9-4dbc-498e-8690-f7ab9c021b7b.png)
 
-
+dAPP: [NFTEarth](https://nftearth.exchange)
 <br />
 
 </span>
