@@ -10,7 +10,7 @@
 
 <br />
 
-![NFTEarth GitHub Metrics](profile/metrics.svg)
+![NFTEarth GitHub Metrics](metrics.svg)
 
 ---
   
