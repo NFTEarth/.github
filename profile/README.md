@@ -10,7 +10,7 @@
 
 <br />
 
-[Org Repo Metrics To Go HERE]  > (profile/metrics.svg)
+![NFTEarth GitHub Metrics](profile/metrics.svg)
 
 ---
   
