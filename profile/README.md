@@ -10,24 +10,40 @@
 
 <br />
 
-![NFTEarth GitHub Metrics](metrics.svg)
-
+![NFTEarth GitHub Metrics](/profile/metrics.svg)
+ 
 ---
   
 <br />
 
 
-The team uses analytics providers L2Beat and DeFi Llama to monitor the status of the L2 ecosystem. 
+The team uses blockchain analytics providers [L2Beat](https://l2beat.com/scaling/tvl) and [DeFi Llama](https://defillama) to monitor the status of the Layer2 ecosystem. 
 
 <br />
-
-View Layer2 Ethereum Scaling Metrics here: [L2 Beat](https://l2beat.com/scaling/tvl)
 
 ---
 
 ![image](https://user-images.githubusercontent.com/29180454/235240922-a2e871a9-4dbc-498e-8690-f7ab9c021b7b.png)
 
-dAPP: [NFTEarth](https://nftearth.exchange)
+# Visit 
+
+<br />
+
+the dAPP: [NFTEarth](https://nftearth.exchange)
+
+# Mint 
+
+<br />
+  
+an **Earthling** NFT for special utitlity benefits and show your support for supporting web3 for all of Earth! The supply is capped at 4,444 and will mint in various stages.
+
+![Pasted Graphic 303](https://github.com/NFTEarth/.github/assets/29180454/bef5822d-d03b-4fe3-8ea5-068d59c1997a)
+
+# Stake 
+
+<br />
+
+your **LP tokens** to earn staking rewards as part of the NFTEarth Staking Rewards Program.
 
 <br />
 
