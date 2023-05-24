@@ -50,9 +50,9 @@ The dAPP: [NFTEarth](https://nftearth.exchange)
 
 <br />
   
-One of the flagship NFT collections from NFTEarth - **Earthling** - creating using AI generative technology and the platform [AutoMinter](https://autominter.com) to get special utitlity benefits and show your support for supporting web3 for all of the Earth! The supply is capped at 4,444 Earthlings and will mint in various stages.
+One of the Earthling NFTs from the flagship NFT collection from NFTEarth - **Earthling** - creating using AI generative art technology from the platform [AutoMinter](https://autominter.com) to get special utitlity benefits and show your support for supporting web3 for all of the Earth! The supply is capped at 4,444 Earthlings and will mint in various stages.
 
-![Pasted Graphic 303](https://github.com/NFTEarth/.github/assets/29180454/bef5822d-d03b-4fe3-8ea5-068d59c1997a)
+![image](https://github.com/NFTEarth/.github/assets/29180454/161a611d-40da-4115-9bfe-9141820218dc)
 
 # Stake 
 
