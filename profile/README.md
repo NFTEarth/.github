@@ -27,7 +27,7 @@
     <a align="center" href="https://nftearth.exchange" target="_blank">
       <img src="https://github.com/NFTEarth/documentation-nftearth/blob/main/.gitbook/assets/NFTE_Icon.png" alt="NFTEarth" height=200/>
   
-# Trade and Create NFTs on L2
+# Trade and Create NFTs, Earn Rewards
 
 ![NFTEarth GitHub Metrics](/profile/metrics.svg)
  
@@ -35,10 +35,11 @@
   
 <br />
 
-
 The protocol uses web3 analytics providers 
+
 <br>
-[L2Beat](https://l2beat.com/scaling/tvl) and [DeFi Llama](https://defillama) to monitor the status of the Layer2 ecosystem. 
+
+[L2Beat](https://l2beat.com/scaling/tvl) and [DeFi Llama](https://defillama) to monitor the activity across the ecosystem. 
 
 <br />
 
@@ -46,27 +47,15 @@ The protocol uses web3 analytics providers
 
 # Visit 
 
-![image](https://user-images.githubusercontent.com/29180454/235240922-a2e871a9-4dbc-498e-8690-f7ab9c021b7b.png)
-
-<br />
-
 The App: [NFTEarth](https://nftearth.exchange)
 
-# Mint 
-
 <br />
-  
-One of the Earthling NFTs [HERE](https://mintearthling.nftearth.exchange) from the flagship NFT collection from NFTEarth - **Earthling** - creating using AI generative art technology from the platform [AutoMinter](https://autominter.com) to get special utitlity benefits and show your support for supporting web3 for all of the Earth! The supply is capped at 4,444 Earthlings and will mint in various stages.
 
-![image](https://github.com/NFTEarth/.github/assets/29180454/161a611d-40da-4115-9bfe-9141820218dc)
-
-# Lock
+# Earn Rewards
 
 <br />
 
-Your **LP tokens** obtained from [Balancer](https://app.balancer.fi/#/arbitrum/pool/0xd0dc20e6342db2de82692b8dc842301ff9121805000200000000000000000454) on Arbitrum to begin earning your portion of Revenue Sharing as part of the **NFTEarth Staking Rewards Program**
-
-![image](https://github.com/NFTEarth/.github/assets/29180454/df0c9c5a-47d8-4b3b-9d68-e0d86fb05ac3)
+From Your **LP tokens** obtained from [SushiSwap](https://www.sushi.com/pool/42161:0xd2aaa8fc5c39dbe68344bc42d4513ea344e5d696) on Arbitrum.
        
 <br />
 
