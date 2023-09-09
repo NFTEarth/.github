@@ -6,7 +6,7 @@
 <a href="https://twitter.com/NFTEarth_L2">
     <img src="https://img.shields.io/twitter/follow/NFTEarth_L2?label=NFTEarth&style=flat&logo=twitter&color=1DA1F2" alt="Twitter">
 </a>   
-<a href="https://discord.gg/nftearth" target="_blank">
+<a href="https://discord.gg/56a7u3wDkX" target="_blank">
    <img alt="Discord" src="https://img.shields.io/discord/1062256160264171520?style=social&logo=discord&logoColor=7389D8&label=Discord&labelColor=6A7EC2&color=6A7EC2[Discord]">
 </a>   
 
