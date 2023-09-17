@@ -35,28 +35,24 @@
   
 <br />
 
+# Visit The App: [NFTEarth](https://nftearth.exchange)
+
+<br />
+
+# Swap NFTE on Uniswap
+
+<br />
+
+Obtain some NFTE tokens on [Uniswap](https://app.uniswap.org/#/swap?outputCurrency=0x51B902f19a56F0c8E409a34a215AD2673EDF3284) on Arbitrum.
+       
+___
+
 The protocol uses web3 analytics providers 
 
 <br>
 
 [L2Beat](https://l2beat.com/scaling/tvl) and [DeFi Llama](https://defillama) to monitor the activity across the ecosystem. 
-
-<br />
-
----
-
-# Visit 
-
-The App: [NFTEarth](https://nftearth.exchange)
-
-<br />
-
-# Earn Rewards
-
-<br />
-
-From Your **LP tokens** obtained from [SushiSwap](https://www.sushi.com/pool/42161:0xd2aaa8fc5c39dbe68344bc42d4513ea344e5d696) on Arbitrum.
-       
+    
 <br />
 
 </span>
